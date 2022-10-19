@@ -12,7 +12,7 @@
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
-  <img align="right" alt="Larissa-pic" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/d67a74896992e755566034615b59998f.gif>
+  <img align="right" alt="Larissa-pic" src="https://i.picasion.com/pic92/d67a74896992e755566034615b59998f.gif" width="150px">
 </div>       
   
 ##

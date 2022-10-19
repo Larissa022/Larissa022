@@ -1,4 +1,4 @@
-## Oiê! Eu sou a Larissa :)
+## Oiê! Eu sou a Larissa :) ✨
 
 <div align="center">
   <a href="https://github.com/Larissa022">

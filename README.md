@@ -10,8 +10,7 @@
   <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Larissa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  
+  <img align="center" alt="Larissa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Larissa-pic" src="https://i.picasion.com/pic92/d67a74896992e755566034615b59998f.gif" width="150px">
 </div>       
   
@@ -19,7 +18,6 @@
   
 <div>
   
- 
 ![Snake animation](https://github.com/Larissa022/Larissa022/blob/output/github-contribution-grid-snake.svg)
   
 </div>

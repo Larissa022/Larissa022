@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Larissa022">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa022&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa022&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa022&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Larissa-pic" src="https://i.picasion.com/pic92/d67a74896992e755566034615b59998f.gif" width="150px">
